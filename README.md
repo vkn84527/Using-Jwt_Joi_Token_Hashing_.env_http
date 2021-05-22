@@ -7,9 +7,9 @@
 
 .env file contain <br>
 {<br>
-PORT=3000
-MONGODB_URI=mongodb://localhost:27017
-DB_NAME=REVIEW2
-ACCESS_TOKEN_SECRET=   Your_Token
+PORT=3000 <br>
+MONGODB_URI=mongodb://localhost:27017<br>
+DB_NAME=REVIEW2 <br>
+ACCESS_TOKEN_SECRET=   Your_Token <br>
 REFRESH_TOKEN_SECRET=   Your_Token  <br>
 }
